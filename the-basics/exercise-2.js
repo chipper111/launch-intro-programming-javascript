@@ -1,4 +1,7 @@
 /*
+Exercise 2
+12.01.22
+
 Using arithmetic operators, get the individual digits of a 4-digit number like 4936:
 
     thousands place is 4
