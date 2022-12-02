@@ -22,5 +22,5 @@ let foo = "bar";
 console.log(foo);
 
 /* Answer =>
-We get an output of "bar" since that particular foo variable is globally scoped unlike the foo with "qux". However, since console.log only has access to the globally scoped foo, the code doesn't get a chance to produce an error since we are not allowed to redeclare a variable with the same name. 
+We get an output of "bar" since that particular foo variable is globally scoped unlike the foo with "qux". However, since console.log only has access to the globally scoped foo, the code doesn't get a chance to produce an error since we are not allowed to redeclare a variable with the same name as in the block scoped foo.
 */
