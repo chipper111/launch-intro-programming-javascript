@@ -1,4 +1,4 @@
-# launch-intro-programming-javascript
+# launch-intro-programming-javascript-book
 
 ## Introduction to Programming
 
